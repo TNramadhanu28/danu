@@ -1,0 +1,12 @@
+.body {
+	background-image:url("tokopedei.jpg");
+	background-size:100% 100%;
+	margin:auto;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+.menu {
+	font-family: tahoma;
+	font-weight: 70px;
+	width: 100%;
+}

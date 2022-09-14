@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+     <title>LATIHAN Dropdown</title>
+</head>
+<body>
+<nav class="menu">
+     <label>TOKOPEDEI</label>
+     <ul>
+          <li><a href="#">Kategori</a></li>
+          <li><a href="#">Log in</a></li>
+
+
+
+     </ul>
+
+</body>
+</html>
